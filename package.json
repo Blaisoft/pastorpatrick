@@ -1,5 +1,4 @@
 {
-  "homepage": "https://blaisoft.github.io/pastorpatrick",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +13,6 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "deploy":"npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
